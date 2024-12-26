@@ -1,5 +1,5 @@
 # CT-Autoencoder
-Training an autoencoder neural network to remove noise from CT images.
+Training an autoencoder neural network (Google Tensorflow) to remove noise from CT images.
 Using traditional ASIR processing as a starting point, comparison with GE's DLIR algorithm, my own autoencoder network, and a traditional lowpass filter.
 My results are the "Reconstr. ASIR"
 
